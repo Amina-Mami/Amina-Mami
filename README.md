@@ -13,7 +13,7 @@ I am a student currently studying IT Engineering **. I have a passion for web de
 
 - **Web Development**: HTML, CSS, JavaScript, React, Node.js, Angular, Express.js
 - **Programming**: Java, C#
-- **Database Management**: SQL, MongoDB
+- **Database**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 
 ## Contact Me
@@ -28,7 +28,7 @@ Feel free to check out my repositories and get in touch if you have any question
 
 Outside of coding, I enjoy:
 
-- 🎨 Cooking
+- 🍳 Cooking and trying out new recipes
 - 📚 Reading books 
 - 🚴‍♂️ Outdoor activities
 
