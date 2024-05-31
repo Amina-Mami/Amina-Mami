@@ -4,10 +4,9 @@
 
 I am a student currently studying IT Engineering **. I have a passion for web development and enjoy learning about new technologies and applying them in my projects.
 
-- 🎓 **Education**: Engineering Student at [Your University]
-- 💻 **Specialization**: Technologies de Web et Internet (TWIN)
-- 🌐 **Languages**: [List the languages you are proficient in, e.g., HTML, CSS, JavaScript, Python, etc.]
-- 🛠️ **Technologies & Tools**: [List the tools and frameworks you are familiar with, e.g., React, Node.js, Git, etc.]
+- 🎓 **Education**: IT Engineering Student at ESPRIT.
+- 💻 **Specialization**: WEB DEVELOPMENT 
+
 
 
 ## Skills
