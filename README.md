@@ -2,9 +2,9 @@
 
 ## About Me
 
-I am a student currently studying IT Engineering **. I have a passion for web development and enjoy learning about new technologies and applying them in my projects.
+I am a student currently studying computer science engineering. I have a passion for web development and enjoy learning about new technologies and applying them in my projects.
 
-- 🎓 **Education**: IT Engineering Student at ESPRIT.
+- 🎓 **Education**: Computer Science Engineering Student at ESPRIT.
 - 💻 **Specialization**: WEB DEVELOPMENT 
 
 
