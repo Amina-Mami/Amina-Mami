@@ -11,8 +11,8 @@ I am a student currently studying computer science engineering. I have a passion
 
 ## Skills
 
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js, Angular, Express.js
-- **Programming**: Java, C#
+- **Web Development**: HTML, CSS, tailwindCss, JavaScript, Bootstrap, React, Node.js, Angular, Express.js, Spring, .Net
+- **Programming**: Java, C# 
 - **Database**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 
