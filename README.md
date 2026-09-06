@@ -11,7 +11,6 @@ I enjoy building scalable applications, automating data workflows, and working o
 ## 🚀 About Me
 
 * 🎓 **Computer Science Engineer** – ESPRIT
-* 💻 **6+ years of experience** in Web Development
 * 📊 Currently specializing in **Data Engineering**
 * 🐍 Interested in **Python, Data Engineering, Machine Learning & AI**
 * 🌱 Always learning and exploring new technologies
