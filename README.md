@@ -1,40 +1,99 @@
-# Hello, I'm Amina! 👋
+# Hi, I'm Amina! 👋
 
-## About Me
+### Software Engineer | Data Engineering & Full-Stack Development
 
-I am a student currently studying computer science engineering. I have a passion for web development and enjoy learning about new technologies and applying them in my projects.
+I'm a **Computer Science Engineer** with a strong background in **Full-Stack Web Development** and a growing specialization in **Data Engineering**.
 
-- 🎓 **Education**: Computer Science Engineering Student at ESPRIT.
-- 💻 **Specialization**: WEB DEVELOPMENT 
+I enjoy building scalable applications, automating data workflows, and working on projects that combine software engineering and data.
 
+---
 
+## 🚀 About Me
 
-## Skills
+* 🎓 **Computer Science Engineer** – ESPRIT
+* 💻 **6+ years of experience** in Web Development
+* 📊 Currently specializing in **Data Engineering**
+* 🐍 Interested in **Python, Data Engineering, Machine Learning & AI**
+* 🌱 Always learning and exploring new technologies
 
-- **Web Development**: HTML, CSS, tailwindCss, JavaScript, Bootstrap, React, Node.js, Angular, Express.js, Spring, .Net
-- **Programming**: Java, C# 
-- **Database**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
+---
 
-## Contact Me
+## 🛠️ Technical Skills
 
-- **Email**: amina.mami@esprit.tn
-- **LinkedIn**: https://www.linkedin.com/in/amina-mami/
+### 💻 Software & Web Development
 
+* **Backend:** PHP, Symfony, Java, Spring, Node.js, Express.js
+* **Frontend:** React, Next.js, Angular, JavaScript, TypeScript
+* **UI:** HTML5, CSS3, Tailwind CSS, Bootstrap
+* **APIs:** REST APIs
 
-Feel free to check out my repositories and get in touch if you have any questions or collaboration ideas!
+### 📊 Data Engineering
 
-## Hobbies & Interests
+* **Languages:** Python, SQL
+* **Data Processing:** Pandas, NumPy
+* **ETL / ELT**
+* **Web Scraping:** APIs, Playwright
+* **Data Migration & Automation**
+* **Databases:** MySQL, MongoDB, Oracle
+* **Data Warehouse**
 
-Outside of coding, I enjoy:
+### 🤖 Machine Learning & AI
 
-- 🍳 Cooking and trying out new recipes
-- 📚 Reading books 
-- 🚴‍♂️ Outdoor activities
+* Scikit-learn
+* Machine Learning fundamentals
+* Unsupervised Learning
+* Data preprocessing & feature engineering
+* Embeddings & AI APIs
 
-## Goals
+### ⚙️ Tools & DevOps
 
-- Contribute to open-source projects
-- Improve my skills in machine learning and AI
+* Git & GitHub
+* Docker
+* Jenkins
+* Jira
+* Postman
+* Agile / Scrum
 
-Thanks for visiting my profile! 😊
+---
+
+## 📌 Featured Projects
+
+### ⚽ MetaMatch
+
+A football staff management platform built with **Angular, Express.js and MongoDB**.
+
+Features include team management, training sessions, match scheduling and performance-related modules.
+
+### 🎵 Spotify Music Segmentation
+
+An **unsupervised Machine Learning** project focused on automatically grouping music tracks based on their audio characteristics.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+
+### 🔄 Data Automation & Web Scraping
+
+Python-based automation projects for collecting, cleaning and migrating data using **REST APIs and Playwright**.
+
+---
+
+## 📚 Currently Learning
+
+* Data Engineering
+* Big Data
+* Cloud Computing
+* Machine Learning & AI
+* Data Pipelines & ETL
+* SQL & Data Warehousing
+
+---
+
+## 📫 Let's Connect
+
+* 💼 **LinkedIn:** [Amina Mami](https://www.linkedin.com/in/amina-mami/)
+* 🐙 **GitHub:** You're already here!
+
+I'm always interested in interesting projects, technical challenges and opportunities to build things with **software, data and AI**.
+
+---
+
+⭐ Feel free to explore my repositories!
