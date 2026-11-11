@@ -1,116 +1,105 @@
-# Hi, I'm Amina! 👋
+# Bonjour, c'est Amina ! 
 
-### Junior Data Analyst | SQL • Python • Power BI | Data Engineering
+### Data Analyst Junior | SQL • Python • Power BI | Data Engineering
 
-I'm a **Computer Science Engineer** with a strong interest in **Data Analytics, Data Engineering, and Business Intelligence**.
+Ingénieure en informatique, je m'intéresse particulièrement à **l'analyse de données, la Business Intelligence et l'ingénierie des données**.
 
-I enjoy transforming raw data into meaningful insights, exploring datasets, building analytical solutions, and developing data pipelines.
+J'aime explorer les données, identifier des tendances, construire des tableaux de bord et transformer des données brutes en informations utiles à la prise de décision.
 
-My background in software engineering also allows me to approach data projects with a strong understanding of databases, programming, and system architecture.
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 **Computer Science Engineer** – ESPRIT
-- 📊 Focused on **Data Analytics & Business Intelligence**
-- 🐍 Working with **Python, SQL, and Power BI**
-- 📈 Interested in data visualization, exploratory data analysis, and business insights
-- 🔄 Exploring **ETL pipelines, Data Warehousing, and Big Data**
-- 🌱 Continuously improving my analytical and technical skills
+Mon parcours en développement logiciel me permet également d'avoir une vision technique des bases de données, des systèmes d'information et des pipelines de données.
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 À propos de moi
+
+- 🎓 **Ingénieure en informatique** – ESPRIT
+- 📊 Spécialisation et montée en compétences en **Data Analytics & Business Intelligence**
+- 🐍 Utilisation de **Python et SQL** pour l'analyse et le traitement des données
+- 📈 Intérêt pour la visualisation de données, l'analyse exploratoire et les indicateurs de performance (KPI)
+- 🔄 Exploration de l'ETL, du Data Warehousing et du Big Data
+- 🌱 En apprentissage continu des technologies liées à la Data
+
+---
+
+## 🛠️ Compétences techniques
 
 ### 📊 Data Analytics & Business Intelligence
 
-- **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation
-- **Languages:** SQL, Python
-- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-- **Visualization:** Power BI, DAX, Data Visualization
-- **Business Intelligence:** KPIs, Reporting, Dashboard Development
+- **Analyse de données :** analyse exploratoire (EDA), nettoyage et transformation des données
+- **Langages :** SQL, Python
+- **Bibliothèques Python :** Pandas, NumPy, Matplotlib, Seaborn
+- **Visualisation :** Power BI, DAX, création de tableaux de bord
+- **Business Intelligence :** KPI, reporting, analyse des performances
 
 ### 🔄 Data Engineering
 
-- ETL / ELT Pipelines
-- Data Integration & Data Migration
-- Data Processing & Automation
-- Web Scraping & REST APIs
-- Data Warehousing fundamentals
-- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB
-- **Big Data:** Apache Spark / PySpark (learning)
+- ETL / ELT et pipelines de données
+- Intégration et migration de données
+- Automatisation des traitements
+- Web Scraping et REST APIs
+- Fondamentaux du Data Warehousing
+- **Bases de données :** MySQL, PostgreSQL, Oracle, MongoDB
+- **Big Data :** Apache Spark / PySpark
 
-### 🤖 Machine Learning & AI
+### 🤖 Machine Learning & Intelligence Artificielle
 
 - Scikit-learn
-- Unsupervised Learning
-- Clustering & Segmentation
-- Data Preprocessing & Feature Engineering
-- Machine Learning Fundamentals
+- Apprentissage non supervisé
+- Clustering et segmentation
+- Prétraitement des données (Data Preprocessing)
+- Feature Engineering
+- Fondamentaux du Machine Learning
 
-### 💻 Software Development
+### 💻 Développement 
 
-- **Backend:** Python, PHP, Symfony, Java, Spring, Node.js
-- **Frontend:** React, Next.js, Angular, JavaScript, TypeScript
-- **Tools:** Git, GitHub, Docker, Jenkins, Jira, Postman
+- **Backend :** Python, PHP, Symfony, Java, Spring, Node.js
+- **Frontend :** React, Next.js, Angular, JavaScript, TypeScript
+- **Outils :** Git, GitHub, Docker, Jenkins, Jira, Postman
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projets
 
-### 📊 Data Analysis & Business Intelligence
+### 📊 Analyse de données & Business Intelligence
 
-Projects focused on exploring datasets, identifying trends, analyzing KPIs, and presenting insights through data visualizations and dashboards.
+Projets d'analyse exploratoire, d'identification de tendances, de calcul d'indicateurs et de visualisation de données pour faciliter la prise de décision.
 
 ### 🎵 Spotify Music Segmentation
 
-An unsupervised Machine Learning project focused on grouping music tracks based on their audio characteristics.
+Projet de Machine Learning non supervisé visant à regrouper des morceaux de musique selon leurs caractéristiques audio.
 
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
+**Technologies :** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-### 🔄 ETL Pipeline – E-commerce Sales Data
+### 🔄 Pipeline ETL – Analyse des ventes e-commerce
 
-A Python-based ETL project that extracts, cleans, transforms, validates, and loads e-commerce sales data into a database.
+Développement d'un pipeline ETL permettant d'extraire, nettoyer, transformer, valider et charger des données de ventes e-commerce dans une base de données.
 
-**Technologies:** Python, Pandas, SQLite, SQL, Pytest
+**Technologies :** Python, Pandas, SQLite, SQL, Pytest
 
 ### ⚙️ Data Automation & Web Scraping
 
-Python-based automation projects for collecting, processing, cleaning, and migrating data using REST APIs and Playwright.
+Projets d'automatisation avec Python pour collecter, traiter, nettoyer et migrer des données à partir d'APIs REST et de Playwright.
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Objectifs professionnels
 
-- Advanced SQL for Data Analysis
-- Power BI & DAX
-- Python for Data Analytics
-- Data Warehousing & Dimensional Modeling
-- Apache Spark & PySpark
-- Data Engineering & Big Data
-- Cloud Computing
+Je souhaite évoluer dans les métiers de la Data, notamment en tant que :
 
----
-
-## 🎯 Career Interests
-
-I'm particularly interested in opportunities as a:
-
-- Junior Data Analyst
+- Data Analyst 
 - BI Analyst
-- Data Analyst / BI Developer
-- Junior Data Engineer
+- BI Developer
+- Data Engineer 
 
 ---
 
-## 📫 Let's Connect
+## 📫 Me contacter
 
-- 💼 **LinkedIn:** [Amina Mami](https://www.linkedin.com/in/amina-mami/)
-- 🐙 **GitHub:** [Amina-Mami](https://github.com/Amina-Mami)
+- 💼 **LinkedIn :** [Amina Mami](https://www.linkedin.com/in/amina-mami/)
+- 🐙 **GitHub :** [Amina-Mami](https://github.com/Amina-Mami)
 
-I'm always interested in data-driven projects, analytical challenges, and opportunities to turn data into actionable insights.
+Je suis toujours intéressée par les projets orientés données, les défis analytiques et les opportunités permettant de transformer les données en informations exploitables.
 
 ---
 
-⭐ Feel free to explore my repositories!
+⭐ N'hésitez pas à explorer mes projets !
