@@ -1,97 +1,115 @@
 # Hi, I'm Amina! 👋
 
-### Software Engineer | Data Engineering & Full-Stack Development
+### Junior Data Analyst | SQL • Python • Power BI | Data Engineering
 
-I'm a **Computer Science Engineer** with a strong background in **Full-Stack Web Development** and a growing specialization in **Data Engineering**.
+I'm a **Computer Science Engineer** with a strong interest in **Data Analytics, Data Engineering, and Business Intelligence**.
 
-I enjoy building scalable applications, automating data workflows, and working on projects that combine software engineering and data.
+I enjoy transforming raw data into meaningful insights, exploring datasets, building analytical solutions, and developing data pipelines.
+
+My background in software engineering also allows me to approach data projects with a strong understanding of databases, programming, and system architecture.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-* 🎓 **Computer Science Engineer** – ESPRIT
-* 📊 Currently specializing in **Data Engineering**
-* 🐍 Interested in **Python, Data Engineering, Machine Learning & AI**
-* 🌱 Always learning and exploring new technologies
+- 🎓 **Computer Science Engineer** – ESPRIT
+- 📊 Focused on **Data Analytics & Business Intelligence**
+- 🐍 Working with **Python, SQL, and Power BI**
+- 📈 Interested in data visualization, exploratory data analysis, and business insights
+- 🔄 Exploring **ETL pipelines, Data Warehousing, and Big Data**
+- 🌱 Continuously improving my analytical and technical skills
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 💻 Software & Web Development
+### 📊 Data Analytics & Business Intelligence
 
-* **Backend:** PHP, Symfony, Java, Spring, Node.js, Express.js
-* **Frontend:** React, Next.js, Angular, JavaScript, TypeScript
-* **UI:** HTML5, CSS3, Tailwind CSS, Bootstrap
-* **APIs:** REST APIs
+- **Data Analysis:** Exploratory Data Analysis (EDA), Data Cleaning, Data Transformation
+- **Languages:** SQL, Python
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Visualization:** Power BI, DAX, Data Visualization
+- **Business Intelligence:** KPIs, Reporting, Dashboard Development
 
-### 📊 Data Engineering
+### 🔄 Data Engineering
 
-* **Languages:** Python, SQL
-* **Data Processing:** Pandas, NumPy
-* **ETL / ELT**
-* **Web Scraping:** APIs, Playwright
-* **Data Migration & Automation**
-* **Databases:** MySQL, MongoDB, Oracle
-* **Data Warehouse**
+- ETL / ELT Pipelines
+- Data Integration & Data Migration
+- Data Processing & Automation
+- Web Scraping & REST APIs
+- Data Warehousing fundamentals
+- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB
+- **Big Data:** Apache Spark / PySpark (learning)
 
 ### 🤖 Machine Learning & AI
 
-* Scikit-learn
-* Machine Learning fundamentals
-* Unsupervised Learning
-* Data preprocessing & feature engineering
-* Embeddings & AI APIs
+- Scikit-learn
+- Unsupervised Learning
+- Clustering & Segmentation
+- Data Preprocessing & Feature Engineering
+- Machine Learning Fundamentals
 
-### ⚙️ Tools & DevOps
+### 💻 Software Development
 
-* Git & GitHub
-* Docker
-* Jenkins
-* Jira
-* Postman
-* Agile / Scrum
+- **Backend:** Python, PHP, Symfony, Java, Spring, Node.js
+- **Frontend:** React, Next.js, Angular, JavaScript, TypeScript
+- **Tools:** Git, GitHub, Docker, Jenkins, Jira, Postman
 
 ---
 
 ## 📌 Featured Projects
 
-### ⚽ MetaMatch
+### 📊 Data Analysis & Business Intelligence
 
-A football staff management platform built with **Angular, Express.js and MongoDB**.
-
-Features include team management, training sessions, match scheduling and performance-related modules.
+Projects focused on exploring datasets, identifying trends, analyzing KPIs, and presenting insights through data visualizations and dashboards.
 
 ### 🎵 Spotify Music Segmentation
 
-An **unsupervised Machine Learning** project focused on automatically grouping music tracks based on their audio characteristics.
+An unsupervised Machine Learning project focused on grouping music tracks based on their audio characteristics.
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
-### 🔄 Data Automation & Web Scraping
+### 🔄 ETL Pipeline – E-commerce Sales Data
 
-Python-based automation projects for collecting, cleaning and migrating data using **REST APIs and Playwright**.
+A Python-based ETL project that extracts, cleans, transforms, validates, and loads e-commerce sales data into a database.
+
+**Technologies:** Python, Pandas, SQLite, SQL, Pytest
+
+### ⚙️ Data Automation & Web Scraping
+
+Python-based automation projects for collecting, processing, cleaning, and migrating data using REST APIs and Playwright.
 
 ---
 
 ## 📚 Currently Learning
 
-* Data Engineering
-* Big Data
-* Cloud Computing
-* Machine Learning & AI
-* Data Pipelines & ETL
-* SQL & Data Warehousing
+- Advanced SQL for Data Analysis
+- Power BI & DAX
+- Python for Data Analytics
+- Data Warehousing & Dimensional Modeling
+- Apache Spark & PySpark
+- Data Engineering & Big Data
+- Cloud Computing
+
+---
+
+## 🎯 Career Interests
+
+I'm particularly interested in opportunities as a:
+
+- Junior Data Analyst
+- BI Analyst
+- Data Analyst / BI Developer
+- Junior Data Engineer
 
 ---
 
 ## 📫 Let's Connect
 
-* 💼 **LinkedIn:** [Amina Mami](https://www.linkedin.com/in/amina-mami/)
-* 🐙 **GitHub:** You're already here!
+- 💼 **LinkedIn:** [Amina Mami](https://www.linkedin.com/in/amina-mami/)
+- 🐙 **GitHub:** [Amina-Mami](https://github.com/Amina-Mami)
 
-I'm always interested in interesting projects, technical challenges and opportunities to build things with **software, data and AI**.
+I'm always interested in data-driven projects, analytical challenges, and opportunities to turn data into actionable insights.
 
 ---
 
